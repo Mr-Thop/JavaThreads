@@ -9,7 +9,7 @@ This Java project demonstrates the use of multiple threading techniques in Java.
 
 ---
 
-## 🧵 Thread Techniques Demonstrated
+## Thread Techniques Demonstrated
 
 1. **Extending Thread Class**
    - File: `MyThread1.java`
@@ -33,8 +33,15 @@ This Java project demonstrates the use of multiple threading techniques in Java.
 
 ---
 
-## 🛠 How to Run
+## How to Run
 
 1. Compile all files:
 ```bash
 javac *.java
+```
+
+## Output
+
+![image](https://github.com/user-attachments/assets/60c93e31-46a7-407b-a897-6846a8060489)
+
+
